@@ -1,0 +1,1 @@
+enum BtMode { classic, ble }
